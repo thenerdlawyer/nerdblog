@@ -1,0 +1,83 @@
+---
+author: temjeito@yahoo.com
+comments: true
+date: 2014-09-12 11:00:00+00:00
+excerpt: <p>In July, two students at Iowa State University struck a blow against traditional
+  stereotypes of marijuana users by filing an articulate and passionate 20-page <a
+  href="https://mbsmithlaw.squarespace.com/s/isucomplaint.pdf">complaint</a> against
+  several school officials, in both their official and personal capacities, claiming
+  violation of their free speech rights under the First and Fourteenth Amendments.</p>
+layout: post
+slug: 20149118c79o3tc7vx622e0hyd2mjr4sva7bb
+title: Trademark Rights vs. Free Speech
+wordpress_id: 56
+categories:
+- Intellectual Property
+- Litigation
+- Trademark
+tags:
+- constitution
+- trademark
+- video games
+---
+In July, two students at Iowa State University struck a blow against traditional stereotypes of marijuana users by filing an articulate and passionate 20-page [complaint] against several school officials, in both their official and personal capacities, claiming violation of their free speech rights under the First and Fourteenth Amendments.
+
+Plaintiffs Paul Gerlich and Erin Furleigh are officers of the NORML[^1] chapter at ISU. According to their complaint, in late 2012, ISU NORML submitted a t-shirt design to the ISU Trademark Office:[^2]
+
+The first 100 t-shirts sold out within a week, so the group ordered more. However, after the school received complaints, ISU revoked its prior approval of the t-shirt design.[^3] ISU also replaced the group's faculty advisor[^4] with the Senior VP for Student Affairs—a named defendant and, plaintiffs allege, "a driving force in revoking approval of the t-shirt design."
+
+Several weeks later, allegedly in response to the NORML t-shirt, the ISU Trademark Office issued revised Trademark Guidelines including the following:
+
+> No designs that use University marks that suggest promotion of the below listed items will be approved: dangerous, illegal or unhealthy products, actions, or behaviors. … \[D\]rugs and drug paraphernalia that are illegal or unhealthful….
+
+Soon thereafter, the Trademark Office approved a t-shirt design submitted by NORML under the new guidelines. The new t-shirt said "NORML ISU" across the front and "We are NORML" across the back. A few months later a second t-shirt design was approved; this one simply said "NORML ISU Student Chapter" on the front. The Trademark Office subsequently rejected a t-shirt design with the slogan "NORML ISU Supports Legalizing Marijuana" and a cannabis leaf graphic on the front, and "National Organization for the Reform of Marijuana Laws" on the back. One reason given for the rejection was that it suggested that the university supported the legalization of marijuana.
+
+Nearly a year later, NORML submitted yet another t-shirt design to the Trademark Office:
+
+The Trademark Office rejected the design, citing the Trademark Guidelines' prohibition against using the university's marks in a way that suggests promotion of things that are dangerous, illegal, or unhealthy.
+
+Plaintiffs assert that ISU "suppressed Plaintiffs' message because of its viewpoint." Plaintiffs also challenge the Trademark Guidelines as unconstitutionally vague and overly broad. Plaintiffs point out that football,[^5] ROTC,[^6] video games,[^7] and bondage/sadomasochism[^8] (allegedly all activities in promotion of which ISU has allowed its marks to be used) could be considered "dangerous" or "unhealthful". Last week, Iowa's Attorney General filed a [motion to dismiss] the complaint. Iowa's brief argues plaintiffs have failed to plead that:
+
+-   they lack adequate alternative avenues of communication without the use of ISU's marks;
+
+-   their t-shirt designs constitute "fair use" of ISU's marks; and
+
+-   their designs do not create confusion as to whether ISU "sponsored, endorsed, or is otherwise affiliated with" the speech.
+
+Iowa also asserts that the defendants have qualified and/or sovereign immunity and that the plaintiffs failed to exhaust their administrative remedies before filing suit.[^9]
+
+Although the school's guidelines may be vague and inconsistently enforced, the plaintiffs would seem to have an uphill battle on their hands. For one thing, they don't seem to be using the ISU marks for any purpose other than source identification. ISU rejected the t-shirts at least in part on the basis that they would create confusion as to ISU's support of NORML's political stance. The complaint references a letter to the editor and complaints from state legislators and private citizens, which are at least suggestive of actual confusion. ISU is not alleged to have made any attempt to stop NORML from advocating the legalization of marijuana, or to prevent NORML from advertising its association with the university.[^10]
+
+In the inverse situation (defense of Lanham Act infringement claims on First Amendment grounds), the Eight Circuit held that where the use of a trademark is likely to create confusion and that confusion is not "plausibly necessary to achieve the desired commentary," "the First Amendment places no bar to the application of the Lanham Act."[^11] That case involved a [mock advertisement] for a fictitious product ("Michelob Oily"), intended to be a parodic commentary on oil spills and water pollution. The court found that the defendant could have taken steps to convey its message with "substantially less risk of consumer confusion."[^12] It would appear that the same is true here. Moreover, the parody in the *Anheuser-Busch* case depended in part on its allusion to "Michelob Dry." Here there does not appear to be any similar connection between NORML's message (that marijuana should be legalized) and ISU's marks (which establish NORML's affiliation with the school).
+
+Still, it is a well-crafted, often clever complaint, and a strong response to what the plaintiffs certainly (and perhaps correctly) perceived as arbitrary and discriminatory actions on the part of school officials unsympathetic to their views. Maybe they should all get together and smoke some weed.
+
+------------------------------------------------------------------------
+
+[^1]: National Organization for the Reform of Marijuana Laws
+
+[^2]: The ISU Trademark Office determines whether students and campus organization may use "ISU", "Iowa State University", and/or other marks associated with ISU, based on certain "design standards" established by the university.
+
+[^3]: The plaintiffs allege that ISU did so out of fear that it would lose state funding or alumni donations.
+
+[^4]: "a member of ISU's custodial staff."
+
+[^5]: "engaging in a sport with a high incidence of injury is a 'dangerous behavior.'"
+
+[^6]: "military training, not to mention combat, is dangerous."
+
+[^7]: My personal favorite: "spending too much time creating and playing video games can cause eye strain, may contribute to obesity by promoting sedentary behavior, and is asserted to have other 'unhealthful' effects."
+
+[^8]: "ISU has … authorized its mark to be used in the insignia and on the website for ISU Cuffs, 'an educational group for people who want to learn more about alternative sexuality such as kink, fetish, BDSM, and other expressions of safe, consensual, and non-exploitative human sexuality.' … In its FAQ, Cuff states: 'Bondage is by far the most common kinky practice, but it is also among the most difficult things to do without causing harm.' … It also states that BDSM is not any more (dangerous) than other contact sports' but that 'there are some risks involved.'"
+
+[^9]: The plaintiffs admit they did not avail themselves of ISU's appeal procedure, which they allege would have ben futile.
+
+[^10]: ISU approved two t-shirt designs under the new guidelines. Neither design combined the marks with an explicit expression of support for the legalization of marijuana.
+
+[^11]: *Anheuser-Busch, Inc. v. Balducci Publications*, 28 F.3d 769, 776 (8th Cir. 1994).
+
+[^12]: "By using an obvious disclaimer, positioning the parody in a less-confusing location, altering the protected marks in a meaningful way, or doing some collection of the above."
+
+  [complaint]: /s/isucomplaint.pdf
+  [motion to dismiss]: /s/isumtd.pdf
+  [mock advertisement]: /s/micheloboily.png

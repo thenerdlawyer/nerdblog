@@ -1,0 +1,145 @@
+---
+author: temjeito@yahoo.com
+comments: true
+date: 2014-10-08 17:50:37+00:00
+excerpt: '<p>Dov Seidman, author of "HOW: Why How We Do Anything Means Everything"
+  and consultant on ethical corporate behavior, has registered "HOW" with the USPTO.
+  In a complaint filed against yogurt-maker Chobani,&nbsp;Mr. Seidman claims the right
+  to control the use of the word "how" in connection with, among other things, "business
+  and professional conduct by business organizations."&nbsp;Chobani has been using
+  the slogan "HOW MATTERS" as part of an advertising campaign promoting Chobani''s
+  environmentally and socially responsible practices.&nbsp;</p>'
+layout: post
+slug: 2014108the-how-of-yogurt
+title: The HOW of Yogurt
+wordpress_id: 45
+categories:
+- Intellectual Property
+- Litigation
+- Trademark
+tags:
+- trademark
+---
+
+The Players
+-----------
+
+Dov Seidman and his company, [LRN Corporation], have for the past two decades or so profited by exploiting the concept that *what* you do is less important than *how* you do it.[^1] Specifically, Mr. Seidman promotes ethical, socially conscious corporate behavior. Seidman is the author of "HOW: Why How We Do Anything Means Everything," and has registered the mark "HOW" in connection with various goods and services related to business and ethics consulting and education.
+
+Chobani, LLC makes yogurt. In early 2014, Chobani launched a marketing campaign devised by [Droga5][^2] "designed to encourage people to think about how food manufacturers treat their people and support the community at large." The campaign centered around the phrase "HOW MATTERS."
+
+The Game
+--------
+
+Seidman sued Chobani and Droga5,[^3] claiming that he and LRN have "created and developed very substantial goodwill and reputation—and built significant and growing business—based on the HOW marks and the message conveyed to consumers through Plaintiffs' use of those marks." Seidman alleges that Chobani's use of HOW goes "far beyond selling yogurt products," and conveys a corporate philosophy elevating the importance of "how" over "what."
+
+Seidman appears to assert the right to control the use of HOW in connection with such abstract concepts as:
+
+-   business and professional conduct by business organizations
+-   corporate and social values
+-   institutional behavior and culture
+-   corporate culture and business, cultural, social and environmental responsibility
+-   values-driven business and values-based business leadership
+-   the management and operation of business in an environmentally responsible and environmentally sustainable manner.
+
+Seidman/LRN claim forward and reverse confusion, alleging that the latter "would be devastating \[and\] would severely jeopardize LRN's business and Mr. Seidman's career."
+
+Chobani asserts fair use and the First Amendment, and claims that Plaintiffs have no protectable interest in HOW MATTERS. Droga5 alleges that Plaintiffs have no protectable interest in HOW. Both defendants assert counterclaims for a declaration of non infringement and cancellation of registration.
+
+Forced Error?
+-------------
+
+Chobani further alleges that Seidman/LRN are improperly relying on an obvious mistake on the part of the USPTO. Specifically, Chobani asserts that the examiner inexplicably deleted the first 13 words of Seidman's identification of Class 35 goods and services:
+
+> **Providing online information in the fields of business ethics, business oral and written…**
+
+Because of this erroneous deletion, the language of the registration, on its face, purports to cover the abstract concepts identified above.
+
+Pre-Game Analysis
+-----------------
+
+Whether or not the plaintiffs are basing their claims on a scrivener's error, they do appear to be claiming the right to control the use of the word "how," at least when used as a noun,[^4] in connection with institutional behavior and culture writ large.
+
+The relief being sought also seems disproportionate. In addition to broad injunctive relief, the destruction of all "goods or marketing materials bearing Plaintiffs' HOW marks," and corrective advertising "at a scope commensurate with their advertising and promotion of the infringing marks,"[^5] the plaintiffs want Chobani to disgorge all profits derived from its use of the HOW marks and want Chobani to pay damages, lost profits, treble damages, and attorneys' fees.
+
+### Strength of the Mark
+
+"How" is generic, even when used as a noun.[^6] Arguably, it is *especially* generic when used as a noun.[^7] As used by Seidman, "how" is not even descriptive of the product; it *is* the product. Seidman/LRN provide their clients with "the how" of ethical behavior. On the other hand, perhaps Seidman has reduced the description of what he offers to a level of abstraction sufficient to render the term suggestive.
+
+### Similarity of the Marks
+
+Both sides are using the same word ("how") in the same way (*e.g.*, "how matters").
+
+### Proximity/Competitiveness of products
+
+In one corner: niche consulting services provided to corporations and other organizations. In the other: yogurt. The Venn diagram wouldn't even look like a Venn diagram.
+
+### Will Senior User "Bridge the Gap"?
+
+I deem it highly unlikely that Mr. Seidman or LRN will decide branch out into the yogurt business.
+
+### Evidence of Confusion
+
+Consumers familiar with Mr. Seidman and/or LRN could conceivably believe that Seidman authorized or participated in Chobani's campaign. Of course, any such confusion might also be traced to Mr. Seidman's own (pre-litigation) tweets, including this one:
+
+> "I believe HOW food is made matters. If you do too, share the \#howmatters message: \[link to Chobani's 'Thunderclap' page\]" @Chobani \#HOWorld
+
+It seems to me highly unlikely, on the other hand, that plaintiffs will be able to demonstrate that anyone (especially anyone actually interested in LRN's services) thinks that LRN was "infringing Chobani marks and misappropriating Chobani's messages."
+
+### Evidence of Bad Faith
+
+Sideman alleges that Droga5/Chobani knew of Seidman's long-standing use of and association with the HOW marks, and even discussed whether to reach to Seidman during the development of the "how matters" campaign. Chobani alleges that discussion occurred *after* the campaign was launched, and uses the opportunity to take a jab at LRN's relative obscurity:
+
+> On January 28, 2014, after Chobani publicly launched the "How Matters" campaign, Droga5 provided Chobani with a list of social media users that Droga5 had prepared, and which Droga5 recommended may be "worth reaching out to" about the campaign. Dov Seidman's name was included on the list. Some Chobani employees, because they had not heard of Mr. sideman and did not otherwise think that he had a sufficiently large social media following, questioned whether he was an appropriate person to contact about the campaign.
+
+Whether or not Chobani or Droga5 were familiar with Seidman/LRN or its use of HOW prior to launch (it seems likely from the allegations that they were), I would think that Seidman's initial promotion of the campaign would make it hard for him to assert bad faith in the development of the campaign.
+
+### Respective Quality of the Products
+
+So different are the two products that I can't fathom how you would compare their quality, or that it would matter in this context.
+
+### Sophistication of Consumers
+
+Chobani alleges that the USPTO initially refused Seidman's application to register HOW because of a prior registration of "HOW 2.0" for websites "featuring cooking, health diets \[and\] food diets." Seidman's response:
+
+> Because of the specialized business-oriented nature of the products and services offered by \[Seidman/LRN\], the specific type of consumer that uses, purchases or learns about such products and services and the manner in which \[Seidman/LRN\]'s products and services are marketed, distributed and sold, it is unlikely that consumers would mistakenly believe that the goods and services associated with the HOW trademark originate from the same source as those displaying the \[HOW 2.0 mark\].
+
+### Advantage: Chobani
+
+Although Seidman/LRN may indeed have distinguished their use of HOW sufficiently to afford that mark with some level of trademark protection, their reach here exceeds their grasp.
+
+### Some Other Sports Reference
+
+-   Do you think that Seidman/LRN's approach so far reflects the best "how" available to them?
+
+-   Do you think that trying to enjoin a corporation from spreading a message of corporate responsibility and ethical action "embod\[ies\] the ethos at the center of Mr. Seidman's life's work"?
+
+-   Which do you think is likely to do more damage to LRN's business:
+
+    -   Chobani's use of the phrase "how matters" and a message of corporate responsibility in connection with the promotion and sale of fermented dairy products; or
+
+    -   Seidman/LRN's aggressive (and potentially very expensive) litigation against Chobani?
+
+
+
+[^1]: This is not a novel concept. *See, *e.g.,\* Ella Fitzgerald, *'Tain't What You Do (It's the Way That You Do It)* (1939).
+
+[^2]: ¿De vera5?
+
+[^3]: Seidman alleges that he reached out to Chobani and Droga5 prior to the filing of the complaint, but was unable to resolve the issue. The "how" of Seidman's reaching out may have had something to do with it. According to Chobani, they were approached by a Mr. Adam Hanft, "who identified himself as a representative for Mr. Seidman" and who, mong other things, apparently described an upcoming meeting "as a 'gladiatorial engagement' during which he would cross-examine Chobani emoployees," and sent an email containing the phrase "activities related to butt coverage."
+
+[^4]: The complaint makes a point of noting that Seidman/LRN use HOW "as a noun rather than the typical use of that word as an adverb."
+
+[^5]: Chobani's "how matters" campaign included TV ads that aired ruing the Super Bowl, the Winter Olympics, and the Academy Awards.
+
+[^6]: It seems doubtful that using the word as a noun is distinctive enough to create a protectable ownership interest. Certainly [it][] [has][] [been][] [done][] [before].
+
+[^7]: "A rule of thumb sometimes forwarded as distinguishing a generic name from a descriptive term is that generic terms are nouns and descriptive terms are adjectives. However, this 'part of speech' test does not accurately describe the case law results." 2 J. Thomas McCarthy, *McCarthy on Trademarks and Unfair Competition* § 12.02\[5\] 3d ed. (1995). 
+
+  [LRN Corporation]: http://lrn.com
+  [Droga5]: http://droga5.com
+  [it]: http://www.nytimes.com/1988/02/28/books/the-how-of-the-word.html
+  [has]: https://www.lds.org/new-era/1978/07/the-how-and-why-of-faith-promoting-stories?lang=eng
+  [been]: http://www.nytimes.com/1992/06/14/business/the-how-in-home-improvement.html
+  [done]: http://www.computer.org/csdl/mags/so/1988/01/s1054-abs.html
+  [before]: http://garfield.library.upenn.edu/classics1983/A1983QM15900001.pdf
